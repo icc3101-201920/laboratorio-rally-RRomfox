@@ -1,0 +1,8 @@
+C:\Users\froma\Desktop\Rally\ModelosRally\bin\Debug\netstandard1.6\ModelosRally.deps.json
+C:\Users\froma\Desktop\Rally\ModelosRally\bin\Debug\netstandard1.6\ModelosRally.dll
+C:\Users\froma\Desktop\Rally\ModelosRally\bin\Debug\netstandard1.6\ModelosRally.pdb
+C:\Users\froma\Desktop\Rally\ModelosRally\obj\Debug\netstandard1.6\ModelosRally.csprojAssemblyReference.cache
+C:\Users\froma\Desktop\Rally\ModelosRally\obj\Debug\netstandard1.6\ModelosRally.AssemblyInfoInputs.cache
+C:\Users\froma\Desktop\Rally\ModelosRally\obj\Debug\netstandard1.6\ModelosRally.AssemblyInfo.cs
+C:\Users\froma\Desktop\Rally\ModelosRally\obj\Debug\netstandard1.6\ModelosRally.dll
+C:\Users\froma\Desktop\Rally\ModelosRally\obj\Debug\netstandard1.6\ModelosRally.pdb
